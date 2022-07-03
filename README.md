@@ -1,2 +1,1 @@
-# testprofit
-To test profit prediction
+# testProfitPredictionApp
